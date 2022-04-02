@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aish21&label=Profile%20views&color=0e75b6&style=flat" alt="aish21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aish21" alt="aish21" /></a> </p>
-
 - 🔭 I’m currently working on [Jugaad](Jugaad-solution-challenge-22.herokuapp.com/#/)
 
 - 🌱 I’m currently learning **Microsoft Azure, AWS and Flutter**
