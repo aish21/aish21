@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Jugaad](Jugaad-solution-challenge-22.herokuapp.com/#/)
 
-- 🌱 I’m currently learning **Microsoft Azure, AWS and Flutter**
+- 🌱 I’m currently learning **Microsoft Azure and Docker**
 
 - 👨‍💻 All of my projects are available at [<to-do>](<to-do>)
 
-- 📫 How to reach me **SI0001YA@e.ntu.edu.sg**
+- 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
 
 - 📄 Know about my experiences [<to-do>](<to-do>)
 
