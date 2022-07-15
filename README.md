@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Microsoft Azure and Docker**
 
-- 👨‍💻 All of my projects are available at [<to-do>](<to-do>)
+- 👨‍💻 All of my projects are available on my [website](https://aishwarya-singh.herokuapp.com)
 
 - 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
 
-- 📄 Know about my experiences [<to-do>](<to-do>)
+- 📄 Know about my experiences on my [website](https://aishwarya-singh.herokuapp.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
