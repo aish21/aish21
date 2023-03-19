@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aish21&label=Profile%20views&color=0e75b6&style=flat" alt="aish21" /> </p>
 
-- 🔭 I’m currently working on [Jugaad](Jugaad-solution-challenge-22.herokuapp.com/#/)
+- 🔭 I’m currently working on [VirtualEYE](https://github.com/aish21/VirtualEYE-FYP)
 
 - 🌱 I’m currently learning **Microsoft Azure and Docker**
 
 - 👨‍💻 All of my projects are available on my [website](https://aishwarya-singh.netlify.app)
 
-- 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
+- 📫 Reach out to me @ **aish.akshu@gmail.com**
 
 - 📄 Know about my experiences on my [website](https://aishwarya-singh.netlify.app)
 
