@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on my [website](https://aishwarya-singh.netlify.app)
 
-- 📫 Reach out to me @ **aish.akshu@gmail.com**
+- 📫 Reach out to me @ **ashsongh@gmail.com**
 
 - 📄 Know about my experiences on my [website](https://aishwarya-singh.netlify.app)
 
