@@ -1,17 +1,15 @@
 <h1 align="center">Hello, 👋 I'm Aishwarya Singh</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Full Stack Developer | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aish21&label=Profile%20views&color=0e75b6&style=flat" alt="aish21" /> </p>
 
-- 🔭 I’m currently working on [VirtualEYE](https://github.com/aish21/VirtualEYE-FYP)
+- 🌱 I’m currently learning **Microsoft Azure**
 
-- 🌱 I’m currently learning **Microsoft Azure and Docker**
+- 👨‍💻 All of my projects are available on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
 
-- 👨‍💻 All of my projects are available on my [website](https://aishwarya-singh.netlify.app)
+- 📫 Reach out to me @ **work.singh.aishwarya@gmail.com**
 
-- 📫 Reach out to me @ **ashsongh@gmail.com**
-
-- 📄 Know about my experiences on my [website](https://aishwarya-singh.netlify.app)
+- 📄 Know about my experiences on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
