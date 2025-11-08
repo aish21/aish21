@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
-- 👨‍💻 All of my projects are available on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
+- 👨‍💻 All of my projects are available on my [website](https://aish21.github.io/aishwarya-singh-web/)
 
 - 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
 
-- 📄 Know about my experiences on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
+- 📄 Know about my experiences on my [website](https://aish21.github.io/aishwarya-singh-web/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
