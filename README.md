@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
 
-- 📫 Reach out to me @ **work.singh.aishwarya@gmail.com**
+- 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
 
 - 📄 Know about my experiences on my [website]([https://aishwarya-singh.netlify.app](https://aish21.github.io/aishwarya-singh-web/))
 
