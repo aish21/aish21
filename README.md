@@ -1,13 +1,11 @@
-<h1 align="center">Hello, 👋 I'm Aishwarya Singh</h1>
-<h3 align="center">Full Stack Developer | Software Engineer</h3>
+<h1 align="center">Aishwarya Singh</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aish21&label=Profile%20views&color=0e75b6&style=flat" alt="aish21" /> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure**
-
 - 👨‍💻 All of my projects are available on my [website](https://aish21.github.io/aishwarya-singh-web/)
 
-- 📫 Reach out to me @ **SI0001YA@e.ntu.edu.sg**
+- 📫 Reach out to me @ **work.singh.aishwarya@gmail.com**
 
 - 📄 Know about my experiences on my [website](https://aish21.github.io/aishwarya-singh-web/)
 
